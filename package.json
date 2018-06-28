@@ -1,6 +1,14 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "build:renameHtml": "node scripts/renameHtml.js",
+    "build:readme": "node scripts/readme.js",
+    "deploy": "sh deploy.sh"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.11",
+    "markdown-it-furigana": "^1.0.0",
+    "vuepress": "^0.10.2"
   }
 }

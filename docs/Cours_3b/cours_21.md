@@ -24,12 +24,12 @@ Grammaire - Énumération des qualités / défauts
 オドレさんは、料（りょう）理（り）が上（じょう）手（ず）だ**し**、スペイン語（ご）を話（はな）す**し**、水（うい）泳（えい）を**します**。    
 Audrey est douée en cuisine, parle l'espagnole et fait de la natation.
 
-###Adjectif
+### Adjectif
 
 私の車は、べんりだ**し**、かわいい**し**、しずか**です**。   
 Ma voiture est pratique, mignonne et silencieuse.
 
-###Enumération des défauts
+### Enumération des défauts
 
 この時（と）計（けい）は、とても高（たか）いし、べんりじゃないし、うるさいです。    
 Cette montre est très chère, pas pratique et bruyante.

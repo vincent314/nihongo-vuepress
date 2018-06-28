@@ -132,7 +132,7 @@ kaT-ta / kaT-te</td>
 kaW-a-nai / kaW-a-nakatta</td>
 </tr><tr>
 <td colspan="5">
-<b>Exceptions</b></td>
+<strong>Exceptions</strong></td>
 </tr><tr>
 <td>&nbsp;</td>
 <td>行く
@@ -200,7 +200,7 @@ tabe-nai / tabe-nakatta</td>
 </table>
 
 <h1>verbes irréguliers</h1>
-<p><table class="standard">
+<table class="standard">
 <thead>
 <tr><th>&nbsp;</th>
 <th>辞書形<br/>
@@ -235,6 +235,6 @@ shi-masu</td>
 shi-ta / shi-te</td>
 <td>しない　/　しなかった
 shi-nai / shi-nakatta</td>
-</tr></table></p>
+</tr></table>
 </body>
 </html>

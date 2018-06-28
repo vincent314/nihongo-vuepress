@@ -43,25 +43,25 @@ Porter des vêtements
 Exercice 22.3 I - 着る・はく・かぶる・かける
 -----------
 
-####着ます
+#### 着ます
 
 * シャツ (chemise)
 * コート (manteau)
 * スーツ (costume homme ou femme)
 * セータ (sweat)
 
-####はきます
+#### はきます
 
 * くつ (chaussures)
 * ズボン (pantalon)
 * 靴（くつ）下（した） (chaussettes)
 
-####かぶります
+#### かぶります
 
 * ヘルメット (casque)
 * ぼうし (chapeau)
 
-####かけます
+#### かけます
 
 * めがね
 

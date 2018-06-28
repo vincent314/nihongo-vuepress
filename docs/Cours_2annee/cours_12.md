@@ -1,6 +1,6 @@
 2013年01月21日
 
-#<ruby><rb>最近</rb><rp>【</rp><rt>さいきん</rt><rp>】</rp></ruby>、何をしましたか？
+# <ruby><rb>最近</rb><rp>【</rp><rt>さいきん</rt><rp>】</rp></ruby>、何をしましたか？
 
 
 パリストアの買いもの :
@@ -35,7 +35,7 @@
 
 日本の<ruby><rb>年末年始</rb><rp>【</rp><rt>ねんまつねんし</rt><rp>】</rp></ruby> = Fêtes de fin d'année au japon
 
-##クリスマス
+## クリスマス
 
 * １５５２年から<ruby><rb>始</rb><rp>【</rp><rt>はじ</rt><rp>】</rp></ruby>まった Ça a commencé depuis l'an 1552
 *  <ruby><rb>恋人</rb><rp>【</rp><rt>こいびと</rt><rp>】</rp></ruby>や<ruby><rb>友</rb><rp>【</rp><rt>とも</rt><rp>】</rp></ruby>だちと<ruby><rb>過</rb><rp>【</rp><rt>す</rt><rp>】</rp></ruby>ごす Passer un moment avec son/sa petite amie et des amis.
@@ -43,13 +43,13 @@
 * 「メリークリスマス!」と<ruby><rb>言</rb><rp>【</rp><rt>い</rt><rp>】</rp></ruby>う. On se dit «Joyeux Noël !»
 * ケンタッキーのフライドチキンやクリスマスケーキを食べる。On mange au KFC et le gâteau de Noël.
 
-##<ruby><rb>年末</rb><rp>【</rp><rt>ねんまつ</rt><rp>】</rp></ruby>
+## <ruby><rb>年末</rb><rp>【</rp><rt>ねんまつ</rt><rp>】</rp></ruby>
 
 * <ruby><rb>大</rb><rp>【</rp><rt>おお</rt><rp>】</rp></ruby>そうじをする。On fait le grand ménage
 * おせいぼをおくる。On envoie des cadeaux
 * <ruby><rb>年賀</rb><rp>【</rp><rt>ねんが</rt><rp>】</rp></ruby>じょうを<ruby><rb>書</rb><rp>【</rp><rt>か</rt><rp>】</rp></ruby>くOn écrit des cartes de vœux
 
-##お<ruby><rb>正月</rb><rp>【</rp><rt>しょうがつ</rt><rp>】</rp></ruby>
+## お<ruby><rb>正月</rb><rp>【</rp><rt>しょうがつ</rt><rp>】</rp></ruby>
 
 * <ruby><rb>家族</rb><rp>【</rp><rt>かぞく</rt><rp>】</rp></ruby>ですごす On passe du temps avec la famille
 * <ruby><rb>年</rb><rp>【</rp><rt>とし</rt><rp>】</rp></ruby>こしそばをたべる On mange des nouilles en passant l'année (à minuit)

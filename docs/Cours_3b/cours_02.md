@@ -1,5 +1,12 @@
+---
+title: Niveau 3b - Cours 2
+lang: fr-FR 
+---
+
 Cours 2
 ==========
+
+[[toc]]
 
 ２０１4年１０月０６日
 

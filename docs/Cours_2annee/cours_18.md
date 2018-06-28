@@ -1,6 +1,6 @@
 ２０１３年０３月１３日
 
-#<ruby><rb>最近</rb><rp>【</rp><rt>さいきん</rt><rp>】</rp></ruby>何をしましたか？
+# <ruby><rb>最近</rb><rp>【</rp><rt>さいきん</rt><rp>】</rp></ruby>何をしましたか？
 
 ちょうこく = sculture
 
@@ -47,7 +47,7 @@
 
 たのしかったです　= c'était amusant
 
-#Correction du test
+# Correction du test
 
 ## Exercice 2
 1°/ いやな<ruby><rb>天気</rb><rp>【</rp><rt>てんき</rt><rp>】</rp></ruby>　≠　いい<ruby><rb>天気</rb><rp>【</rp><rt>てんき</rt><rp>】</rp></ruby>

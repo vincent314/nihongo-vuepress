@@ -15,7 +15,7 @@ Cours 26
 Grammaire - Forme volitive
 ----------
 
-###Volonté personnelle : ça va s'accomplir, futur, "let's …"
+### Volonté personnelle : ça va s'accomplir, futur, "let's …"
 
 * 漢字を勉（べん）強（きょう）し<strike>ます</strike>**よう** (groupe III)
 * 買い物（もの）に行<strike>きます</strike>**こう** (groupe I)
@@ -28,7 +28,7 @@ Grammaire - Forme volitive
 * みます --> みよう
 * たべます --> たべよう
 
-###Projet, je pense faire … : Vforme volitive + と思っています
+### Projet, je pense faire … : Vforme volitive + と思っています
 
 remarque : 思（おも）う = penser
 
@@ -42,7 +42,7 @@ Je pense me reposer.
 漢字を勉（べん）強（きょう）しようと思っています。   
 Je pense travailler les Kanji
 
-###Projet personnel déterminé ou détaillé : Vdic + つもりです
+### Projet personnel déterminé ou détaillé : Vdic + つもりです
 
 Vdic + **つもりです** ou Vない + **つもりです**
 
@@ -56,7 +56,7 @@ On peut par exemple d'abord utiliser la forme おもっています pour présen
 ヨットをする**つもりです**。    
 Je pense passer mes prochaines vacances à St-Malo. Je vais dessiner. Je vais faire du bâteau.
 
-###Programmé ou prévu par qq'un : Vdic・Nomの + よていです
+### Programmé ou prévu par qq'un : Vdic・Nomの + よていです
 
 飛（ひ）行（こう）機（き）は１０時につくよていです。   
 L'avion est prévu à 10 heures 
@@ -65,9 +65,9 @@ L'avion est prévu à 10 heures
 Le mois prochain, je vais à une réunion programmée.
 
 
-###Verbes et forme volitive
+### Verbes et forme volitive
 
-####Groupe I
+#### Groupe I
 
 |Vdic       |forme volitive     |フランス語で         |
 |-----------|-------------------|-------------------|
@@ -87,7 +87,7 @@ Le mois prochain, je vais à une réunion programmée.
 |作（つく）る|作ろう             |fabriquer          |
 |登（のぼ）る|登ろう             |grimper            |
 
-####Groupe II
+#### Groupe II
 
 |Vdic       |forme volitive     |フランス語で         |
 |-----------|-------------------|-------------------|
@@ -100,7 +100,7 @@ Le mois prochain, je vais à une réunion programmée.
 |いる         |いよう            　|être, exister      |
 |浴（あ）びる   |浴びよう            |se doucher      |
 
-####Groupe III
+#### Groupe III
 
 |Vdic       |forme volitive     |フランス語で         |
 |-----------|-------------------|-------------------|

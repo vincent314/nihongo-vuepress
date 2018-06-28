@@ -66,7 +66,7 @@ Verbes
 |acheter | 買（か）う | 買（か）われる|
 |cuisiner | 料（りょう）理（り）する | 料理される|
 
-###Verbes 1er groupe
+### Verbes 1er groupe
 
 |フランス語 | Actif     | Passif|
 |==========|=============|============|
@@ -88,7 +88,7 @@ Verbes
 |fabriquer | 作（つく）る|作られる|
 |disputer | しかる      |しかられる|
 
-###Verbes 2nd groupe
+### Verbes 2nd groupe
 
 |フランス語 | Actif     | Passif|
 |=========|=================|==========|
@@ -100,7 +100,7 @@ Verbes
 |jeter | 捨（す）てる      |　捨てられる|
 |regarder | 見（み）る    |見られる|
 
-###Verbes 3ème groupe
+### Verbes 3ème groupe
 
 
 |フランス語 | Actif     | Passif|

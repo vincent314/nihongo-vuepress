@@ -19,7 +19,7 @@ Cours #20
 Qualificatif
 --------------
 
-###6p55
+### 6p55
 
 方（ほう）法（ほう） = principe, méthode, règle
 

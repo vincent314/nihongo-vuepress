@@ -3,7 +3,6 @@ title: Niveau 3b - Cours 1
 lang: fr-FR 
 ---
 
-
 Niveau 3b - Cours 1
 ===================
 
@@ -12,6 +11,8 @@ Niveau 3b - Cours 1
 C'est reparti pour les cours de japonais en 3ème année avec Miho Sensei !
 
 Pas de livre officiel pour ce niveau de cours, les supports des 7 leçons sont [téléchargeables ici](http://www.jpf.org.uk/language/teaching_chikara_reading.php#subtopics).
+
+[[toc]]
 
 
 Niveau 3 Oral d'entrée

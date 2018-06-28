@@ -1,15 +1,7 @@
-# Hello World
-
-**BLAH** blah blah
-
-::: tip
-This is a tip
-:::
-
-[[toc]]
-
-[Cours_1annee](/Cours_1annee/)
-
-[Cours 3b](/Cours_3b/)
-
-[test](/test/test1.html)
+---
+home: true
+features:
+- title: Les cours de japonais
+  details: Cours de première année
+footer: © Vincent M 2018 
+---
