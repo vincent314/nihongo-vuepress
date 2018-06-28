@@ -2,6 +2,11 @@ module.exports = {
     title: 'Cours de japonais',
     base: '/nihongo-vuepress/',
     description: 'Les notes de 4 années de cours de japonais.',
+    serviceWorker: true,
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }],
+        ['link', { rel: 'manifest', href: '/manifest.json' }],
+    ],
     themeConfig: {
         sidebarDepth: 0,
         sidebar: [
