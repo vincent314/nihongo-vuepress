@@ -4,6 +4,7 @@
     "docs:build": "vuepress build docs",
     "build:renameHtml": "node scripts/renameHtml.js",
     "build:readme": "node scripts/readme.js",
+    "build:kanji": "node scripts/kanji.js",
     "deploy": "sh deploy.sh"
   },
   "devDependencies": {

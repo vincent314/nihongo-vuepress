@@ -1,0 +1,26 @@
+# Kanji
+
+[[toc]]
+
+{{#each this}}
+## {{kanji}} - {{meaning}}
+
+{{#if writing}}
+::: tip Écriture
+{{writing}}
+:::
+{{/if}}
+
+::: danger Lectures
+{{#readings}}
+* {{.}}
+{{/readings}}
+:::
+
+| japonais    | lecture   | sens     |
+|-------------|-----------|----------|
+{{#each vocabulary}}
+|{{japanese}}|{{reading}}|{{meaning}}|
+{{/each}}
+
+{{/each}}

@@ -15,7 +15,8 @@ module.exports = {
             '/Cours_3annee/',
             '/Cours_3b/',
             '/annexes/',
-            '/Calligraphie/'
+            '/Calligraphie/',
+            '/kanji/'
         ],
         nav: [
             {
@@ -24,7 +25,7 @@ module.exports = {
                     { text: 'Cours 1ère année', link: '/Cours_1annee/' },
                     { text: 'Cours 2nd année', link: '/Cours_2annee/' },
                     { text: 'Cours 3ième année', link: '/Cours_3annee/' },
-                    { text: 'Cours 3ième année bis', link: '/Cours_3b/' },
+                    { text: 'Cours 3ième année bis', link: '/Cours_3b/' }
                 ]
             },
             {
@@ -32,6 +33,9 @@ module.exports = {
             },
             {
                 text: 'Calligraphie', link: '/Calligraphie/'
+            },
+            {
+                text: 'Kanji', link: '/kanji/'
             }
         ]
     },
