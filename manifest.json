@@ -1,0 +1,15 @@
+{
+  "name": "japonais.ovh",
+  "short_name": "japonais.ovh",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Notes de cours de japonais",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    }
+  ]
+}
